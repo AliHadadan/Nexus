@@ -1,3 +1,7 @@
+## Live Demo
+
+[View Live Website](https://nexus-gules-mu.vercel.app/)
+
 # Nexus — Interactive Awwwards-Inspired Website
 
 A modern, visually engaging website inspired by award-winning web design. Built with React and Vite, featuring smooth animations, interactive components, and immersive video experiences.
