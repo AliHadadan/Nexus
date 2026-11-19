@@ -32,3 +32,4 @@ coverage/
 
 # OS files
 Thumbs.db
+public/videos/*.mp4
